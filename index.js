@@ -10,7 +10,6 @@
 // server.listen(port);
 const express = require("express");
 const users = require('./db.json');
-const productusers = require('./db_id.json');
 const app = express();
 const PORT = process.env.PORT || 8000;
 const cors = require('cors');
@@ -26,11 +25,7 @@ app.get('/api/products',(req,res)=>{
     return res.json(users);
 })
 
-app.get('/api/products/:id',(req,res)=>{
-    const id = req.params.id;
-    const user = productusers.find((user) => user.id === id);
-    return res.json(user);
-})
+
 
 
 
