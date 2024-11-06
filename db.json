@@ -1,0 +1,779 @@
+[
+    {
+        "title": "science Quiz",
+        "questions": [
+            {
+                "id": "science1",
+                "text": "What is the smallest unit of matter?",
+                "options": [
+                    "Atom",
+                    "Molecule",
+                    "Cell"
+                ],
+                "answer": "Atom"
+            },
+            {
+                "id": "science2",
+                "text": "Which planet is known as the Red Planet?",
+                "options": [
+                    "Mars",
+                    "Jupiter",
+                    "Venus"
+                ],
+                "answer": "Mars"
+            },
+            {
+                "id": "science3",
+                "text": "What is the process by which plants make their own food?",
+                "options": [
+                    "Photosynthesis",
+                    "Respiration",
+                    "Fermentation"
+                ],
+                "answer": "Photosynthesis"
+            },
+            {
+                "id": "science4",
+                "text": "What is the hardest natural substance on Earth?",
+                "options": [
+                    "Diamond",
+                    "Graphite",
+                    "Quartz"
+                ],
+                "answer": "Diamond"
+            },
+            {
+                "id": "science5",
+                "text": "Where is the smallest bone in the human body located?",
+                "options": [
+                    "Ear",
+                    "Finger",
+                    "Toe"
+                ],
+                "answer": "Ear"
+            },
+            {
+                "id": "science6",
+                "text": "Which gas do plants use for photosynthesis?",
+                "options": [
+                    "Carbon dioxide",
+                    "Oxygen",
+                    "Nitrogen"
+                ],
+                "answer": "Carbon dioxide"
+            },
+            {
+                "id": "science7",
+                "text": "What do you call an organism that makes its own food?",
+                "options": [
+                    "Autotroph",
+                    "Heterotroph",
+                    "Herbivore"
+                ],
+                "answer": "Autotroph"
+            },
+            {
+                "id": "science8",
+                "text": "Which scientist is known for the theory of relativity?",
+                "options": [
+                    "Albert Einstein",
+                    "Isaac Newton",
+                    "Galileo Galilei"
+                ],
+                "answer": "Albert Einstein"
+            },
+            {
+                "id": "science9",
+                "text": "What is the chemical symbol for gold?",
+                "options": [
+                    "Au",
+                    "Ag",
+                    "Fe"
+                ],
+                "answer": "Au"
+            },
+            {
+                "id": "science10",
+                "text": "What is the process by which plants lose water through their leaves?",
+                "options": [
+                    "Transpiration",
+                    "Evaporation",
+                    "Condensation"
+                ],
+                "answer": "Transpiration"
+            }
+        ],
+        "usersPlaying": 66,
+        "prizeAmount": 3000,
+        "winnerAnnouncement": "1:51:06",
+        "entryFee": "FREE",
+        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/67297546b4c6a.png",
+        "liveStatus": true
+    },
+    {
+        "title": "world Quiz",
+        "questions": [
+            {
+                "id": "world1",
+                "text": "What continent is Egypt located in?",
+                "options": [
+                    "Africa",
+                    "Asia",
+                    "Europe"
+                ],
+                "answer": "Africa"
+            },
+            {
+                "id": "world2",
+                "text": "Which ocean is the largest?",
+                "options": [
+                    "Atlantic Ocean",
+                    "Indian Ocean",
+                    "Pacific Ocean"
+                ],
+                "answer": "Pacific Ocean"
+            },
+            {
+                "id": "world3",
+                "text": "Which is the smallest continent by land area?",
+                "options": [
+                    "Europe",
+                    "Australia",
+                    "Asia"
+                ],
+                "answer": "Australia"
+            },
+            {
+                "id": "world4",
+                "text": "What is the capital of Canada?",
+                "options": [
+                    "Toronto",
+                    "Montreal",
+                    "Ottawa"
+                ],
+                "answer": "Ottawa"
+            },
+            {
+                "id": "world5",
+                "text": "Which city is known as the 'Eternal City'?",
+                "options": [
+                    "Paris",
+                    "Rome",
+                    "Athens"
+                ],
+                "answer": "Rome"
+            },
+            {
+                "id": "world6",
+                "text": "Which is the largest desert in the world?",
+                "options": [
+                    "Sahara Desert",
+                    "Arabian Desert",
+                    "Gobi Desert"
+                ],
+                "answer": "Sahara Desert"
+            },
+            {
+                "id": "world7",
+                "text": "Which river is the longest in the world?",
+                "options": [
+                    "Nile River",
+                    "Amazon River",
+                    "Yangtze River"
+                ],
+                "answer": "Nile River"
+            },
+            {
+                "id": "world8",
+                "text": "Which country is known as the 'Land of the Rising Sun'?",
+                "options": [
+                    "China",
+                    "Japan",
+                    "South Korea"
+                ],
+                "answer": "Japan"
+            },
+            {
+                "id": "world9",
+                "text": "In which country would you find the famous ancient city of Petra?",
+                "options": [
+                    "Egypt",
+                    "Jordan",
+                    "Greece"
+                ],
+                "answer": "Jordan"
+            },
+            {
+                "id": "world10",
+                "text": "Which is the tallest mountain in the world?",
+                "options": [
+                    "Mount Everest",
+                    "K2",
+                    "Kangchenjunga"
+                ],
+                "answer": "Mount Everest"
+            }
+        ],
+        "usersPlaying": 78,
+        "prizeAmount": 3000,
+        "winnerAnnouncement": "3:42:48",
+        "entryFee": "FREE",
+        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729755b9d63c.png",
+        "liveStatus": true
+    },
+    {
+        "title": "sports Quiz",
+        "questions": [
+            {
+                "id": "q1",
+                "text": "Which of the following sports is played on a rectangular field that is 120 yards long and 53.3 yards wide?",
+                "options": [
+                    "Football",
+                    "Basketball",
+                    "Tennis"
+                ],
+                "answer": "Football"
+            },
+            {
+                "id": "q2",
+                "text": "In which sport is the playing area known as an 'oval'?",
+                "options": [
+                    "Cricket",
+                    "Rugby",
+                    "Baseball"
+                ],
+                "answer": "Cricket"
+            },
+            {
+                "id": "q3",
+                "text": "Which sport is played on a court that is 78 feet long and 27 feet wide?",
+                "options": [
+                    "Badminton",
+                    "Tennis",
+                    "Volleyball"
+                ],
+                "answer": "Tennis"
+            },
+            {
+                "id": "q4",
+                "text": "In which sport is the playing area called a 'rink'?",
+                "options": [
+                    "Ice Hockey",
+                    "Soccer",
+                    "Golf"
+                ],
+                "answer": "Ice Hockey"
+            },
+            {
+                "id": "q5",
+                "text": "Which sport is played on a field that is 100 yards long and 50 yards wide?",
+                "options": [
+                    "Soccer",
+                    "Field Hockey",
+                    "American Football"
+                ],
+                "answer": "American Football"
+            },
+            {
+                "id": "q6",
+                "text": "In which sport is the playing area known as the 'pitch'?",
+                "options": [
+                    "Football",
+                    "Basketball",
+                    "Golf"
+                ],
+                "answer": "Football"
+            },
+            {
+                "id": "q7",
+                "text": "Which sport is played on a field that is 300 feet long and 160 feet wide?",
+                "options": [
+                    "Baseball",
+                    "Softball",
+                    "Lacrosse"
+                ],
+                "answer": "Baseball"
+            },
+            {
+                "id": "q8",
+                "text": "In which sport is the playing surface commonly made of ice and referred to as the 'ice rink'?",
+                "options": [
+                    "Figure Skating",
+                    "Curling",
+                    "Ice Hockey"
+                ],
+                "answer": "Ice Hockey"
+            },
+            {
+                "id": "q9",
+                "text": "Which sport is played on a field that is 110 meters long and 75 meters wide?",
+                "options": [
+                    "Soccer",
+                    "Rugby",
+                    "Field Hockey"
+                ],
+                "answer": "Soccer"
+            },
+            {
+                "id": "q10",
+                "text": "In which sport is the playing area called the 'lane'?",
+                "options": [
+                    "Bowling",
+                    "Swimming",
+                    "Track and Field"
+                ],
+                "answer": "Bowling"
+            }
+        ],
+        "usersPlaying": 21,
+        "prizeAmount": 6000,
+        "winnerAnnouncement": "1:31:38",
+        "entryFee": "FREE",
+        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729757a50d16.png",
+        "liveStatus": true
+    },
+    {
+        "title": "history Quiz",
+        "questions": [
+            {
+                "id": "history1",
+                "text": "Who was the first president of the United States?",
+                "options": [
+                    "George Washington",
+                    "Thomas Jefferson",
+                    "Abraham Lincoln"
+                ],
+                "answer": "George Washington"
+            },
+            {
+                "id": "history2",
+                "text": "In which year did World War II end?",
+                "options": [
+                    "1945",
+                    "1939",
+                    "1918"
+                ],
+                "answer": "1945"
+            },
+            {
+                "id": "history3",
+                "text": "Which ancient civilization built the pyramids?",
+                "options": [
+                    "Greek",
+                    "Roman",
+                    "Egyptian"
+                ],
+                "answer": "Egyptian"
+            },
+            {
+                "id": "history4",
+                "text": "Where was the Titanic heading on its maiden voyage?",
+                "options": [
+                    "New York City",
+                    "Boston",
+                    "London"
+                ],
+                "answer": "New York City"
+            },
+            {
+                "id": "history5",
+                "text": "Who was the first female prime minister of Great Britain?",
+                "options": [
+                    "Margaret Thatcher",
+                    "Theresa May",
+                    "Queen Elizabeth II"
+                ],
+                "answer": "Margaret Thatcher"
+            },
+            {
+                "id": "history6",
+                "text": "Which famous scientist developed the theory of general relativity?",
+                "options": [
+                    "Albert Einstein",
+                    "Isaac Newton",
+                    "Galileo Galilei"
+                ],
+                "answer": "Albert Einstein"
+            },
+            {
+                "id": "history7",
+                "text": "Where was Christopher Columbus trying to go when he landed in the Americas?",
+                "options": [
+                    "India",
+                    "Africa",
+                    "Asia"
+                ],
+                "answer": "India"
+            },
+            {
+                "id": "history8",
+                "text": "Who wrote the famous play 'Romeo and Juliet'?",
+                "options": [
+                    "William Shakespeare",
+                    "Charles Dickens",
+                    "Jane Austen"
+                ],
+                "answer": "William Shakespeare"
+            },
+            {
+                "id": "history9",
+                "text": "Which war is known as the 'War to End All Wars'?",
+                "options": [
+                    "World War I",
+                    "Vietnam War",
+                    "Korean War"
+                ],
+                "answer": "World War I"
+            },
+            {
+                "id": "history10",
+                "text": "What event marked the beginning of the French Revolution?",
+                "options": [
+                    "Storming of the Bastille",
+                    "Execution of Louis XVI",
+                    "Reign of Terror"
+                ],
+                "answer": "Storming of the Bastille"
+            }
+        ],
+        "usersPlaying": 95,
+        "prizeAmount": 3000,
+        "winnerAnnouncement": "3:14:00",
+        "entryFee": "FREE",
+        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729759342ea3.png",
+        "liveStatus": true
+    },
+    {
+        "title": "current affaris Quiz",
+        "questions": [
+            {
+                "id": "ca1",
+                "text": "Who is the current President of the United States?",
+                "options": [
+                    "Joe Biden",
+                    "Donald Trump",
+                    "Barack Obama"
+                ],
+                "answer": "Joe Biden"
+            },
+            {
+                "id": "ca2",
+                "text": "Which country recently legalized same-sex marriage nationwide?",
+                "options": [
+                    "Australia",
+                    "Germany",
+                    "Japan"
+                ],
+                "answer": "Australia"
+            },
+            {
+                "id": "ca3",
+                "text": "Which city will host the 2020 Summer Olympics?",
+                "options": [
+                    "Tokyo",
+                    "Paris",
+                    "Los Angeles"
+                ],
+                "answer": "Tokyo"
+            },
+            {
+                "id": "ca4",
+                "text": "Who won the 2020 Nobel Peace Prize?",
+                "options": [
+                    "Donald Trump",
+                    "Greta Thunberg",
+                    "UNICEF"
+                ],
+                "answer": "UNICEF"
+            },
+            {
+                "id": "ca5",
+                "text": "Which country recently launched the Mars Perseverance Rover?",
+                "options": [
+                    "Russia",
+                    "China",
+                    "United States"
+                ],
+                "answer": "United States"
+            },
+            {
+                "id": "ca6",
+                "text": "Who is the current Prime Minister of the United Kingdom?",
+                "options": [
+                    "Theresa May",
+                    "Boris Johnson",
+                    "David Cameron"
+                ],
+                "answer": "Boris Johnson"
+            },
+            {
+                "id": "ca7",
+                "text": "Which country recently signed the Abraham Accords peace agreement with Israel?",
+                "options": [
+                    "Saudi Arabia",
+                    "Iran",
+                    "UAE"
+                ],
+                "answer": "UAE"
+            },
+            {
+                "id": "ca8",
+                "text": "In which country did the Black Lives Matter movement originate?",
+                "options": [
+                    "United States",
+                    "South Africa",
+                    "Brazil"
+                ],
+                "answer": "United States"
+            },
+            {
+                "id": "ca9",
+                "text": "Who is the current Secretary-General of the United Nations?",
+                "options": [
+                    "Ban Ki-moon",
+                    "Ant\u00f3nio Guterres",
+                    "Kofi Annan"
+                ],
+                "answer": "Ant\u00f3nio Guterres"
+            },
+            {
+                "id": "ca10",
+                "text": "Which country recently became the first to make menstrual products free in public places?",
+                "options": [
+                    "Canada",
+                    "Scotland",
+                    "Sweden"
+                ],
+                "answer": "Scotland"
+            }
+        ],
+        "usersPlaying": 89,
+        "prizeAmount": 4000,
+        "winnerAnnouncement": "2:33:11",
+        "entryFee": "FREE",
+        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975adf292e.png",
+        "liveStatus": true
+    },
+    {
+        "title": "technology Quiz",
+        "questions": [
+            {
+                "id": "tech1",
+                "text": "What does CPU stand for?",
+                "options": [
+                    "Central Processing Unit",
+                    "Computer Personal Unit",
+                    "Central Personal Unit"
+                ],
+                "answer": "Central Processing Unit"
+            },
+            {
+                "id": "tech2",
+                "text": "Which company is known for its iPhone and iPad products?",
+                "options": [
+                    "Samsung",
+                    "Apple",
+                    "Microsoft"
+                ],
+                "answer": "Apple"
+            },
+            {
+                "id": "tech3",
+                "text": "What does HTML stand for?",
+                "options": [
+                    "Hyper Text Markup Language",
+                    "High Tech Markup Language",
+                    "Hyperlink and Text Markup Language"
+                ],
+                "answer": "Hyper Text Markup Language"
+            },
+            {
+                "id": "tech4",
+                "text": "Who is the founder of Microsoft?",
+                "options": [
+                    "Steve Jobs",
+                    "Bill Gates",
+                    "Mark Zuckerberg"
+                ],
+                "answer": "Bill Gates"
+            },
+            {
+                "id": "tech5",
+                "text": "Which social media platform is known for its 140-character limit posts?",
+                "options": [
+                    "Facebook",
+                    "Instagram",
+                    "Twitter"
+                ],
+                "answer": "Twitter"
+            },
+            {
+                "id": "tech6",
+                "text": "What type of file format is commonly used for images?",
+                "options": [
+                    ".txt",
+                    ".pdf",
+                    ".jpg"
+                ],
+                "answer": ".jpg"
+            },
+            {
+                "id": "tech7",
+                "text": "Which programming language is known for its readability and clarity?",
+                "options": [
+                    "C++",
+                    "Python",
+                    "Java"
+                ],
+                "answer": "Python"
+            },
+            {
+                "id": "tech8",
+                "text": "What is the term used for a program that replicates itself and spreads to other computers?",
+                "options": [
+                    "Virus",
+                    "Trojan Horse",
+                    "Worm"
+                ],
+                "answer": "Worm"
+            },
+            {
+                "id": "tech9",
+                "text": "What does SEO stand for?",
+                "options": [
+                    "Social Engine Optimization",
+                    "Search Engine Online",
+                    "Search Engine Optimization"
+                ],
+                "answer": "Search Engine Optimization"
+            },
+            {
+                "id": "tech10",
+                "text": "Which company is known for its search engine?",
+                "options": [
+                    "Google",
+                    "Amazon",
+                    "Yahoo"
+                ],
+                "answer": "Google"
+            }
+        ],
+        "usersPlaying": 90,
+        "prizeAmount": 5000,
+        "winnerAnnouncement": "2:31:45",
+        "entryFee": "FREE",
+        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975c9148d0.png",
+        "liveStatus": true
+    },
+    {
+        "title": "geography Quiz",
+        "questions": [
+            {
+                "id": "geo1",
+                "text": "Which continent is the largest in terms of land area?",
+                "options": [
+                    "Asia",
+                    "Africa",
+                    "North America"
+                ],
+                "answer": "Asia"
+            },
+            {
+                "id": "geo2",
+                "text": "Which is the longest river in the world?",
+                "options": [
+                    "Nile",
+                    "Amazon",
+                    "Yangtze"
+                ],
+                "answer": "Nile"
+            },
+            {
+                "id": "geo3",
+                "text": "What is the capital of Australia?",
+                "options": [
+                    "Sydney",
+                    "Melbourne",
+                    "Canberra"
+                ],
+                "answer": "Canberra"
+            },
+            {
+                "id": "geo4",
+                "text": "Which country is known as the 'Land of the Rising Sun'?",
+                "options": [
+                    "China",
+                    "India",
+                    "Japan"
+                ],
+                "answer": "Japan"
+            },
+            {
+                "id": "geo5",
+                "text": "What is the largest ocean on Earth?",
+                "options": [
+                    "Pacific Ocean",
+                    "Atlantic Ocean",
+                    "Indian Ocean"
+                ],
+                "answer": "Pacific Ocean"
+            },
+            {
+                "id": "geo6",
+                "text": "Which mountain is the highest in the world?",
+                "options": [
+                    "Mount Kilimanjaro",
+                    "Mount Everest",
+                    "Mount Fuji"
+                ],
+                "answer": "Mount Everest"
+            },
+            {
+                "id": "geo7",
+                "text": "Which country is known as the 'Land of a Thousand Lakes'?",
+                "options": [
+                    "Norway",
+                    "Finland",
+                    "Sweden"
+                ],
+                "answer": "Finland"
+            },
+            {
+                "id": "geo8",
+                "text": "What is the largest desert in the world?",
+                "options": [
+                    "Gobi Desert",
+                    "Sahara Desert",
+                    "Arabian Desert"
+                ],
+                "answer": "Sahara Desert"
+            },
+            {
+                "id": "geo9",
+                "text": "Which country is located at the southernmost tip of Africa?",
+                "options": [
+                    "South Africa",
+                    "Kenya",
+                    "Nigeria"
+                ],
+                "answer": "South Africa"
+            },
+            {
+                "id": "geo10",
+                "text": "What is the world's smallest continent?",
+                "options": [
+                    "Europe",
+                    "Asia",
+                    "Australia"
+                ],
+                "answer": "Australia"
+            }
+        ],
+        "usersPlaying": 33,
+        "prizeAmount": 3000,
+        "winnerAnnouncement": "3:10:02",
+        "entryFee": "FREE",
+        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975e0848d6.png",
+        "liveStatus": true
+    }
+]
