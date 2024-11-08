@@ -14,7 +14,7 @@ const app = express();
 const PORT = process.env.PORT || 8000;
 const cors = require('cors');
 const corsOptions ={
-    origin:['http://localhost:4200', 'https://spygizmo.netlify.app','http://localhost:34196/intro/question'], 
+    origin:['http://localhost:4200', 'https://spygizmo.netlify.app','http://localhost:34196/intro/question','http://localhost:4200/intro/question'], 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200
 }
