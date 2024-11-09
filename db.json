@@ -106,7 +106,7 @@
         "usersPlaying": 66,
         "prizeAmount": 3000,
         "winnerAnnouncement": "1:51:06",
-        "entryFee": 300,
+        "entryFee": 100,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/67297546b4c6a.png",
         "liveStatus": true
     },
