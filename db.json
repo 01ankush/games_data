@@ -106,7 +106,7 @@
         "usersPlaying": 66,
         "prizeAmount": 3000,
         "winnerAnnouncement": "1:51:06",
-        "entryFee": "FREE",
+        "entryFee": 300,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/67297546b4c6a.png",
         "liveStatus": true
     },
@@ -217,7 +217,7 @@
         "usersPlaying": 78,
         "prizeAmount": 3000,
         "winnerAnnouncement": "3:42:48",
-        "entryFee": "FREE",
+        "entryFee": 400,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729755b9d63c.png",
         "liveStatus": true
     },
@@ -328,7 +328,7 @@
         "usersPlaying": 21,
         "prizeAmount": 6000,
         "winnerAnnouncement": "1:31:38",
-        "entryFee": "FREE",
+        "entryFee": 400,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729757a50d16.png",
         "liveStatus": true
     },
@@ -439,7 +439,7 @@
         "usersPlaying": 95,
         "prizeAmount": 3000,
         "winnerAnnouncement": "3:14:00",
-        "entryFee": "FREE",
+        "entryFee": 500,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729759342ea3.png",
         "liveStatus": true
     },
@@ -550,7 +550,7 @@
         "usersPlaying": 89,
         "prizeAmount": 4000,
         "winnerAnnouncement": "2:33:11",
-        "entryFee": "FREE",
+        "entryFee": 300,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975adf292e.png",
         "liveStatus": true
     },
@@ -661,7 +661,7 @@
         "usersPlaying": 90,
         "prizeAmount": 5000,
         "winnerAnnouncement": "2:31:45",
-        "entryFee": "FREE",
+        "entryFee": 400,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975c9148d0.png",
         "liveStatus": true
     },
@@ -772,7 +772,7 @@
         "usersPlaying": 33,
         "prizeAmount": 3000,
         "winnerAnnouncement": "3:10:02",
-        "entryFee": "FREE",
+        "entryFee": 500,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975e0848d6.png",
         "liveStatus": true
     }
