@@ -101,7 +101,909 @@
                     "Condensation"
                 ],
                 "answer": "Transpiration"
-            }
+            },
+             {
+        "id": "science11",
+        "text": "What is the powerhouse of the cell?",
+        "options": [
+            "Mitochondria",
+            "Nucleus",
+            "Ribosome"
+        ],
+        "answer": "Mitochondria"
+    },
+    {
+        "id": "science12",
+        "text": "What is the main gas found in the Earth's atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": "science13",
+        "text": "What planet is closest to the sun?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Earth"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": "science14",
+        "text": "What is the largest organ in the human body?",
+        "options": [
+            "Skin",
+            "Liver",
+            "Brain"
+        ],
+        "answer": "Skin"
+    },
+    {
+        "id": "science15",
+        "text": "What type of celestial body is the sun?",
+        "options": [
+            "Star",
+            "Planet",
+            "Comet"
+        ],
+        "answer": "Star"
+    },
+    {
+        "id": "science16",
+        "text": "What part of the human eye controls the amount of light that enters?",
+        "options": [
+            "Pupil",
+            "Iris",
+            "Cornea"
+        ],
+        "answer": "Pupil"
+    },
+    {
+        "id": "science17",
+        "text": "What is the chemical symbol for water?",
+        "options": [
+            "H2O",
+            "HO2",
+            "O2H"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "id": "science18",
+        "text": "What is the study of living organisms called?",
+        "options": [
+            "Biology",
+            "Chemistry",
+            "Physics"
+        ],
+        "answer": "Biology"
+    },
+    {
+        "id": "science19",
+        "text": "What is the chemical formula for table salt?",
+        "options": [
+            "NaCl",
+            "KCl",
+            "NaCO3"
+        ],
+        "answer": "NaCl"
+    },
+    {
+        "id": "science20",
+        "text": "Which blood cells help fight infections?",
+        "options": [
+            "White blood cells",
+            "Red blood cells",
+            "Platelets"
+        ],
+        "answer": "White blood cells"
+    },
+             {
+        "id": "science21",
+        "text": "What is the chemical symbol for iron?",
+        "options": [
+            "Fe",
+            "Ir",
+            "In"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "id": "science22",
+        "text": "What organ in the human body is responsible for pumping blood?",
+        "options": [
+            "Heart",
+            "Lungs",
+            "Liver"
+        ],
+        "answer": "Heart"
+    },
+    {
+        "id": "science23",
+        "text": "What is the second most abundant gas in the Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "id": "science24",
+        "text": "What galaxy is Earth located in?",
+        "options": [
+            "Milky Way",
+            "Andromeda",
+            "Sombrero"
+        ],
+        "answer": "Milky Way"
+    },
+    {
+        "id": "science25",
+        "text": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton"
+    },
+    {
+        "id": "science26",
+        "text": "What is the primary source of energy for life on Earth?",
+        "options": [
+            "Sun",
+            "Wind",
+            "Water"
+        ],
+        "answer": "Sun"
+    },
+    {
+        "id": "science27",
+        "text": "What is the boiling point of water at sea level in Celsius?",
+        "options": [
+            "100°C",
+            "90°C",
+            "120°C"
+        ],
+        "answer": "100°C"
+    },
+    {
+        "id": "science28",
+        "text": "What gas do humans exhale?",
+        "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "id": "science29",
+        "text": "What is the branch of science concerned with the study of matter and energy?",
+        "options": [
+            "Physics",
+            "Biology",
+            "Chemistry"
+        ],
+        "answer": "Physics"
+    },
+    {
+        "id": "science30",
+        "text": "What type of rock is formed from molten magma?",
+        "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic"
+        ],
+        "answer": "Igneous"
+    },
+                {
+        "id": "science31",
+        "text": "What is the chemical symbol for sodium?",
+        "options": [
+            "Na",
+            "S",
+            "So"
+        ],
+        "answer": "Na"
+    },
+    {
+        "id": "science32",
+        "text": "What part of the plant conducts photosynthesis?",
+        "options": [
+            "Leaf",
+            "Root",
+            "Stem"
+        ],
+        "answer": "Leaf"
+    },
+    {
+        "id": "science33",
+        "text": "What type of blood cells carry oxygen to the body?",
+        "options": [
+            "Red blood cells",
+            "White blood cells",
+            "Platelets"
+        ],
+        "answer": "Red blood cells"
+    },
+    {
+        "id": "science34",
+        "text": "What is the natural satellite of the Earth?",
+        "options": [
+            "Moon",
+            "Mars",
+            "Venus"
+        ],
+        "answer": "Moon"
+    },
+    {
+        "id": "science35",
+        "text": "What is the process of converting a liquid into a gas called?",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Freezing"
+        ],
+        "answer": "Evaporation"
+    },
+    {
+        "id": "science36",
+        "text": "What organ in the human body filters waste from the blood?",
+        "options": [
+            "Kidney",
+            "Liver",
+            "Heart"
+        ],
+        "answer": "Kidney"
+    },
+    {
+        "id": "science37",
+        "text": "Which gas is most commonly used in balloons to make them float?",
+        "options": [
+            "Helium",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": "Helium"
+    },
+    {
+        "id": "science38",
+        "text": "What is the study of the universe and celestial bodies called?",
+        "options": [
+            "Astronomy",
+            "Geology",
+            "Meteorology"
+        ],
+        "answer": "Astronomy"
+    },
+    {
+        "id": "science39",
+        "text": "What is the term for animals that eat only plants?",
+        "options": [
+            "Herbivores",
+            "Carnivores",
+            "Omnivores"
+        ],
+        "answer": "Herbivores"
+    },
+    {
+        "id": "science40",
+        "text": "What is the name of the scientist who proposed the law of gravity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Isaac Newton"
+    },
+             {
+        "id": "science41",
+        "text": "What is the powerhouse of the cell?",
+        "options": [
+            "Mitochondria",
+            "Nucleus",
+            "Ribosome"
+        ],
+        "answer": "Mitochondria"
+    },
+    {
+        "id": "science42",
+        "text": "What is the most abundant element in the universe?",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Carbon"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "id": "science43",
+        "text": "What is the main gas found in the air we breathe?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": "science44",
+        "text": "What is the speed of light in a vacuum?",
+        "options": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "1,000 km/s"
+        ],
+        "answer": "300,000 km/s"
+    },
+    {
+        "id": "science45",
+        "text": "What is the center of an atom called?",
+        "options": [
+            "Nucleus",
+            "Electron",
+            "Proton"
+        ],
+        "answer": "Nucleus"
+    },
+    {
+        "id": "science46",
+        "text": "Which organ is responsible for producing insulin?",
+        "options": [
+            "Pancreas",
+            "Liver",
+            "Kidney"
+        ],
+        "answer": "Pancreas"
+    },
+    {
+        "id": "science47",
+        "text": "What kind of bond is formed when atoms share electrons?",
+        "options": [
+            "Covalent bond",
+            "Ionic bond",
+            "Metallic bond"
+        ],
+        "answer": "Covalent bond"
+    },
+    {
+        "id": "science48",
+        "text": "What layer of the Earth is made up of tectonic plates?",
+        "options": [
+            "Crust",
+            "Mantle",
+            "Core"
+        ],
+        "answer": "Crust"
+    },
+    {
+        "id": "science49",
+        "text": "What is the term for water changing from a liquid to a solid?",
+        "options": [
+            "Freezing",
+            "Melting",
+            "Condensation"
+        ],
+        "answer": "Freezing"
+    },
+    {
+        "id": "science50",
+        "text": "What is the primary function of white blood cells?",
+        "options": [
+            "Fighting infections",
+            "Carrying oxygen",
+            "Clotting blood"
+        ],
+        "answer": "Fighting infections"
+    },
+            ,
+    {
+        "id": "science51",
+        "text": "What is the most abundant element in the Earth's crust?",
+        "options": [
+            "Oxygen",
+            "Silicon",
+            "Aluminum"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "id": "science52",
+        "text": "What is the chemical formula for methane?",
+        "options": [
+            "CH4",
+            "CO2",
+            "H2O"
+        ],
+        "answer": "CH4"
+    },
+    {
+        "id": "science53",
+        "text": "Which element has the atomic number 79?",
+        "options": [
+            "Gold",
+            "Silver",
+            "Platinum"
+        ],
+        "answer": "Gold"
+    },
+    {
+        "id": "science54",
+        "text": "What is the most common isotope of hydrogen?",
+        "options": [
+            "Protium",
+            "Deuterium",
+            "Tritium"
+        ],
+        "answer": "Protium"
+    },
+    {
+        "id": "science55",
+        "text": "Which physicist developed the uncertainty principle?",
+        "options": [
+            "Heisenberg",
+            "Einstein",
+            "Schrödinger"
+        ],
+        "answer": "Heisenberg"
+    },
+    {
+        "id": "science56",
+        "text": "What element is used in the production of nuclear energy?",
+        "options": [
+            "Uranium",
+            "Radon",
+            "Thorium"
+        ],
+        "answer": "Uranium"
+    },
+    {
+        "id": "science57",
+        "text": "What is the largest planet in our solar system?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Neptune"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "id": "science58",
+        "text": "Which metal is liquid at room temperature?",
+        "options": [
+            "Mercury",
+            "Gallium",
+            "Francium"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": "science59",
+        "text": "What is the main protein in human skin?",
+        "options": [
+            "Collagen",
+            "Keratin",
+            "Elastin"
+        ],
+        "answer": "Keratin"
+    },
+    {
+        "id": "science60",
+        "text": "What phenomenon causes the Earth's magnetic field?",
+        "options": [
+            "Geodynamo",
+            "Convection",
+            "Tectonics"
+        ],
+        "answer": "Geodynamo"
+    },
+    {
+        "id": "science61",
+        "text": "What is the name of the particle that carries the electromagnetic force?",
+        "options": [
+            "Photon",
+            "Electron",
+            "Neutron"
+        ],
+        "answer": "Photon"
+    },
+    {
+        "id": "science62",
+        "text": "Which element is known for its role in forming strong acids?",
+        "options": [
+            "Chlorine",
+            "Sulfur",
+            "Nitrogen"
+        ],
+        "answer": "Chlorine"
+    },
+    {
+        "id": "science63",
+        "text": "What is the primary component of the Sun?",
+        "options": [
+            "Hydrogen",
+            "Helium",
+            "Carbon"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "id": "science64",
+        "text": "What is the most common type of galaxy in the universe?",
+        "options": [
+            "Spiral",
+            "Elliptical",
+            "Irregular"
+        ],
+        "answer": "Spiral"
+    },
+    {
+        "id": "science65",
+        "text": "Which particle has a positive charge in an atom?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Electron"
+        ],
+        "answer": "Proton"
+    },
+    {
+        "id": "science66",
+        "text": "Which planet has the longest day?",
+        "options": [
+            "Venus",
+            "Mercury",
+            "Mars"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "id": "science67",
+        "text": "What is the chemical symbol for potassium?",
+        "options": [
+            "K",
+            "P",
+            "Po"
+        ],
+        "answer": "K"
+    },
+    {
+        "id": "science68",
+        "text": "Which gas is a major contributor to the greenhouse effect?",
+        "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "id": "science69",
+        "text": "Which law describes the relationship between pressure and volume of a gas?",
+        "options": [
+            "Boyle's law",
+            "Charles's law",
+            "Avogadro's law"
+        ],
+        "answer": "Boyle's law"
+    },
+    {
+        "id": "science70",
+        "text": "What is the process by which a solid turns directly into a gas?",
+        "options": [
+            "Sublimation",
+            "Melting",
+            "Condensation"
+        ],
+        "answer": "Sublimation"
+    },
+    {
+        "id": "science71",
+        "text": "What is the unit of electrical resistance?",
+        "options": [
+            "Ohm",
+            "Volt",
+            "Ampere"
+        ],
+        "answer": "Ohm"
+    },
+    {
+        "id": "science72",
+        "text": "Which gas makes up about 78% of the Earth's atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": "science73",
+        "text": "What is the element with the atomic number 6?",
+        "options": [
+            "Carbon",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "answer": "Carbon"
+    },
+    {
+        "id": "science74",
+        "text": "Which law states that the velocity of an object increases in direct proportion to the net force applied to it?",
+        "options": [
+            "Newton's second law",
+            "Newton's first law",
+            "Newton's third law"
+        ],
+        "answer": "Newton's second law"
+    },
+    {
+        "id": "science75",
+        "text": "What is the longest bone in the human body?",
+        "options": [
+            "Femur",
+            "Humerus",
+            "Tibia"
+        ],
+        "answer": "Femur"
+    },
+    {
+        "id": "science76",
+        "text": "Which of the following is not a noble gas?",
+        "options": [
+            "Oxygen",
+            "Neon",
+            "Argon"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "id": "science77",
+        "text": "What is the primary substance in the Earth's core?",
+        "options": [
+            "Iron",
+            "Nickel",
+            "Aluminum"
+        ],
+        "answer": "Iron"
+    },
+    {
+        "id": "science78",
+        "text": "Which type of rock is formed by the cooling and solidification of magma?",
+        "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic"
+        ],
+        "answer": "Igneous"
+    },
+    {
+        "id": "science79",
+        "text": "Which planet is known as the 'Evening Star'?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "id": "science80",
+        "text": "What is the chemical formula for ozone?",
+        "options": [
+            "O3",
+            "O2",
+            "O"
+        ],
+        "answer": "O3"
+    },
+            {
+        "id": "science81",
+        "text": "What is the most abundant element in the universe?",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Carbon"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "id": "science82",
+        "text": "Which force keeps the planets in orbit around the Sun?",
+        "options": [
+            "Gravity",
+            "Electromagnetic",
+            "Strong nuclear"
+        ],
+        "answer": "Gravity"
+    },
+    {
+        "id": "science83",
+        "text": "Which particle has no electric charge?",
+        "options": [
+            "Neutron",
+            "Proton",
+            "Electron"
+        ],
+        "answer": "Neutron"
+    },
+    {
+        "id": "science84",
+        "text": "What is the main gas responsible for acid rain?",
+        "options": [
+            "Sulfur dioxide",
+            "Carbon dioxide",
+            "Nitrogen"
+        ],
+        "answer": "Sulfur dioxide"
+    },
+    {
+        "id": "science85",
+        "text": "Which scientist developed the laws of motion?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "id": "science86",
+        "text": "What type of bond holds the two strands of DNA together?",
+        "options": [
+            "Hydrogen bond",
+            "Covalent bond",
+            "Ionic bond"
+        ],
+        "answer": "Hydrogen bond"
+    },
+    {
+        "id": "science87",
+        "text": "Which element is commonly used in the production of batteries?",
+        "options": [
+            "Lithium",
+            "Iron",
+            "Lead"
+        ],
+        "answer": "Lithium"
+    },
+    {
+        "id": "science88",
+        "text": "What is the second most abundant gas in the Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "id": "science89",
+        "text": "Which metal is liquid at room temperature?",
+        "options": [
+            "Mercury",
+            "Lead",
+            "Gold"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": "science90",
+        "text": "Which particle has a negative charge?",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron"
+        ],
+        "answer": "Electron"
+    },
+            {
+        "id": "science91",
+        "text": "Which organ in the human body produces insulin?",
+        "options": [
+            "Pancreas",
+            "Liver",
+            "Kidney"
+        ],
+        "answer": "Pancreas"
+    },
+    {
+        "id": "science92",
+        "text": "Which law states that energy cannot be created or destroyed?",
+        "options": [
+            "Conservation of energy",
+            "Boyle's law",
+            "Ohm's law"
+        ],
+        "answer": "Conservation of energy"
+    },
+    {
+        "id": "science93",
+        "text": "What is the most common blood type in humans?",
+        "options": [
+            "O",
+            "A",
+            "B"
+        ],
+        "answer": "O"
+    },
+    {
+        "id": "science94",
+        "text": "Which is the hardest known substance on Earth?",
+        "options": [
+            "Diamond",
+            "Graphite",
+            "Ruby"
+        ],
+        "answer": "Diamond"
+    },
+    {
+        "id": "science95",
+        "text": "Which scientist is credited with the discovery of penicillin?",
+        "options": [
+            "Alexander Fleming",
+            "Marie Curie",
+            "Louis Pasteur"
+        ],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "id": "science96",
+        "text": "Which part of the cell is known as the 'powerhouse'?",
+        "options": [
+            "Mitochondria",
+            "Nucleus",
+            "Ribosome"
+        ],
+        "answer": "Mitochondria"
+    },
+    {
+        "id": "science97",
+        "text": "What is the largest organ in the human body?",
+        "options": [
+            "Skin",
+            "Liver",
+            "Heart"
+        ],
+        "answer": "Skin"
+    },
+    {
+        "id": "science98",
+        "text": "Which planet has the most moons?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Mars"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "id": "science99",
+        "text": "What is the main component of Earth's atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": "science100",
+        "text": "What is the term for a substance that speeds up a chemical reaction?",
+        "options": [
+            "Catalyst",
+            "Solvent",
+            "Reactant"
+        ],
+        "answer": "Catalyst"
+    }
+            
         ],
         "usersPlaying": 66,
         "prizeAmount": 3000,
@@ -109,7 +1011,7 @@
         "entryFee": 100,
         "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/67297546b4c6a.png",
         "liveStatus": true
-    },
+    }
     {
         "title": "world Quiz",
         "questions": [
