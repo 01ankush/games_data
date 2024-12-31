@@ -1,4 +1,4 @@
-[
+const quizData = [
     {
         "title": "science Quiz",
         "questions": [
@@ -101,17 +101,15 @@
                     "Condensation"
                 ],
                 "answer": "Transpiration"
-            },
-            
-            
+            }
         ],
-        "usersPlaying": 66,
-        "prizeAmount": 3000,
-        "winnerAnnouncement": "1:51:06",
-        "entryFee": 100,
-        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/67297546b4c6a.png",
+        "usersPlaying": 74,
+        "prizeAmount": 5000,
+        "winnerAnnouncement": "2:47:50",
+        "entryFee": 300,
+        "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/67297546b4c6a.png",
         "liveStatus": true
-    }
+    },
     {
         "title": "world Quiz",
         "questions": [
@@ -216,11 +214,11 @@
                 "answer": "Mount Everest"
             }
         ],
-        "usersPlaying": 78,
-        "prizeAmount": 3000,
-        "winnerAnnouncement": "3:42:48",
-        "entryFee": 400,
-        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729755b9d63c.png",
+        "usersPlaying": 36,
+        "prizeAmount": 4000,
+        "winnerAnnouncement": "1:03:51",
+        "entryFee": 300,
+        "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/6729755b9d63c.png",
         "liveStatus": true
     },
     {
@@ -327,11 +325,11 @@
                 "answer": "Bowling"
             }
         ],
-        "usersPlaying": 21,
-        "prizeAmount": 6000,
-        "winnerAnnouncement": "1:31:38",
-        "entryFee": 400,
-        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729757a50d16.png",
+        "usersPlaying": 52,
+        "prizeAmount": 7000,
+        "winnerAnnouncement": "2:44:44",
+        "entryFee": 300,
+        "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/6729757a50d16.png",
         "liveStatus": true
     },
     {
@@ -438,11 +436,11 @@
                 "answer": "Storming of the Bastille"
             }
         ],
-        "usersPlaying": 95,
+        "usersPlaying": 51,
         "prizeAmount": 3000,
-        "winnerAnnouncement": "3:14:00",
-        "entryFee": 500,
-        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/6729759342ea3.png",
+        "winnerAnnouncement": "2:37:54",
+        "entryFee": 200,
+        "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/6729759342ea3.png",
         "liveStatus": true
     },
     {
@@ -549,11 +547,11 @@
                 "answer": "Scotland"
             }
         ],
-        "usersPlaying": 89,
-        "prizeAmount": 4000,
-        "winnerAnnouncement": "2:33:11",
+        "usersPlaying": 99,
+        "prizeAmount": 2000,
+        "winnerAnnouncement": "1:12:09",
         "entryFee": 300,
-        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975adf292e.png",
+        "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/672975adf292e.png",
         "liveStatus": true
     },
     {
@@ -660,11 +658,11 @@
                 "answer": "Google"
             }
         ],
-        "usersPlaying": 90,
+        "usersPlaying": 26,
         "prizeAmount": 5000,
-        "winnerAnnouncement": "2:31:45",
-        "entryFee": 400,
-        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975c9148d0.png",
+        "winnerAnnouncement": "1:28:45",
+        "entryFee": 300,
+        "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/672975c9148d0.png",
         "liveStatus": true
     },
     {
@@ -771,11 +769,11 @@
                 "answer": "Australia"
             }
         ],
-        "usersPlaying": 33,
-        "prizeAmount": 3000,
-        "winnerAnnouncement": "3:10:02",
-        "entryFee": 500,
-        "gameIcon": "https:\/\/andbeyond5.s3.ap-southeast-1.amazonaws.com\/672975e0848d6.png",
+        "usersPlaying": 48,
+        "prizeAmount": 2000,
+        "winnerAnnouncement": "2:33:25",
+        "entryFee": 50,
+        "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/672975e0848d6.png",
         "liveStatus": true
     }
-]
+];
