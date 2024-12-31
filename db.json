@@ -1,4 +1,4 @@
-
+const quizData = [
     {
         "title": "science Quiz",
         "questions": [
@@ -776,3 +776,4 @@
         "gameIcon": "https:\/\/rtbcdn.andbeyond.media\/672975e0848d6.png",
         "liveStatus": true
     }
+];
